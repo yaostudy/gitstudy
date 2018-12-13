@@ -2,3 +2,4 @@ This is a gif test file
 Why test this ? Shit ! 
 Add a line !
 Add a line again ! 
+Git change to stage £¡
